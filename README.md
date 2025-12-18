@@ -1,2 +1,2 @@
 # INDRA-APP
-SIH Android app based project
+Android app based project
